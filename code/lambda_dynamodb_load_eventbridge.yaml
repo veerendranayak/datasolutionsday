@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
-Description: Medium custom lambda stack
+Description: Data Solutions Day stack to load data into DynamoDB table
 
 Resources:
   LambdaFunctionRole:
